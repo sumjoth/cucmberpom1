@@ -36,7 +36,7 @@ formatter.step({
     },
     {
       "cells": [
-        "ganesh",
+        "sidhu",
         "js",
         "gg@gmail.com",
         "chennai",
